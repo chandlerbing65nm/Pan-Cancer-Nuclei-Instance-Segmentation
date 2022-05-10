@@ -13,3 +13,15 @@
 </div>
 
 <h4 align="center">Instance Segmentation of Different Types of Cancer Cells.</h4>
+
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/main/docs/demo.gif?raw=true"
+  >
+</p>
+
+---
+
+# About the Project
+![personal](https://img.shields.io/badge/project-chandlertimmdoloriel-red?style=for-the-badge&logo=appveyor)
