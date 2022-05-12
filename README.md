@@ -243,4 +243,4 @@ You don't need to install anything to run the project. The notebooks I used are 
 
 # License
 
-This repo is licensed under [MIT License](https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/LICENSE)
+This repo is licensed under [Apache License](https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/LICENSE)
