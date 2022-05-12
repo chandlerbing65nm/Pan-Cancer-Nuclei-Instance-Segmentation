@@ -228,3 +228,19 @@ For this project, I used two different architectures for instance segmentation: 
      1056.png                   |  1037.png                 |  105.png
   :-------------------------:|:-------------------------:|:-------------------------:
   ![](https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/maskrcnn-1.png?raw=true)  |  ![](https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/maskrcnn-2.png?raw=true)  |  ![](https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/maskrcnn-3.png?raw=true)
+
+# Usage
+
+You don't need to install anything to run the project. The notebooks I used are all hosted in kaggle and are attached in this repository. If you want to run or view the codes, here are the links to them:
+
+1. PanNuke Data Analysis: [Pan-Cancer Nuclei Data Analysis](https://www.kaggle.com/code/chandlertimm/pan-cancer-nuclei-data-analysis?scriptVersionId=95244279).
+2. PanNuke to Hover-Net conversion: [Pan-Cancer Nuclei Data Conversion - #1](https://www.kaggle.com/code/chandlertimm/pan-cancer-nuclei-data-conversion-1)
+3. PanNuke to COCO conversion: [Pan-Cancer Nuclei Data Conversion - #2](https://www.kaggle.com/code/chandlertimm/pan-cancer-nuclei-data-conversion-2).
+4. Hover-Net Training: [Pan-Cancer Nuclei Instance Segmentation - #1](https://www.kaggle.com/code/chandlertimm/pan-cancer-nuclei-instance-segmentation-1).
+5. Mask RCNN Training: [Pan-Cancer Nuclei Instance Segmentation - #2](https://www.kaggle.com/code/chandlertimm/pan-cancer-nuclei-instance-segmentation-2/notebook).
+6. Inference: [Pan-Cancer Nuclei Inference](https://www.kaggle.com/code/chandlertimm/pan-cancer-nuclei-inference?scriptVersionId=95228284).
+7. Output Usage: [Pan-Cancer Nuclei Usage](https://www.kaggle.com/code/chandlertimm/pan-cancer-nuclei-usage?scriptVersionId=95227921)
+
+# License
+
+This repo is licensed under [MIT License](https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/LICENSE)
