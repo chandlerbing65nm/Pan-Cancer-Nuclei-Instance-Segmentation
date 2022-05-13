@@ -113,7 +113,11 @@ For this project, I used two different architectures for instance segmentation: 
   ------valid-tp_dice_4 : 0.00026
   ------valid-tp_dice_5 : 0.06760
   ------valid-hv_mse    : 0.04192
-  ```
+  ```  
+  
+     1056.png                   |  1037.png                 |  105.png
+  :-------------------------:|:-------------------------:|:-------------------------:
+  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/hover-net-1.png?raw=true" width="256" height="256" />  |  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/hover-net-2.png?raw=true" width="256" height="256" />  |  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/hover-net-3.png?raw=true" width="256" height="256" />
   
 - **Mask RCNN Training/Validation**
 
@@ -202,6 +206,11 @@ For this project, I used two different architectures for instance segmentation: 
    Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=1000 ] = 0.142
    Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=1000 ] = 0.300
   ```
+  
+     1056.png                   |  1037.png                 |  105.png
+  :-------------------------:|:-------------------------:|:-------------------------:
+  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/maskrcnn-1.png?raw=true" width="256" height="256" />  |  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/maskrcnn-2.png?raw=true" width="256" height="256" />  |  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/maskrcnn-3.png?raw=true" width="256" height="256" />
+
 
 # Usage
 
