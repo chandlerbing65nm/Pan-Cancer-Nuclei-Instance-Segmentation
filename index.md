@@ -119,6 +119,15 @@ For this project, I used two different architectures for instance segmentation: 
   :-------------------------:|:-------------------------:|:-------------------------:
   <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/hover-net-1.png?raw=true" width="256" height="256" />  |  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/hover-net-2.png?raw=true" width="256" height="256" />  |  <img src="https://github.com/chandlerbing65nm/Pan-Cancer-Nuclei-Instance-Segmentation/blob/main/docs/hover-net-3.png?raw=true" width="256" height="256" />
   
+  ```python
+  #color representation
+  RED: neoplastic
+  GREEN: inflammatory
+  BLUE: softtissue
+  BROWN: dead
+  ORANGE: epithelial
+  ```
+  
 - **Mask RCNN Training/Validation**
 
   For Mask RCNN architecture, we first convert the dataset into ```COCO``` format. ```COCO``` format is commonly used in instance segmentation datasets so it is not difficult to convert PanNuke into this format. Basically, ```COCO``` format is saved in a json file as a dictionary of images and annotations. The basic structure of the annotations dictionary is shown below.
